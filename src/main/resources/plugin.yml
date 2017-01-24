@@ -1,0 +1,7 @@
+name: msa
+main: com.biel.msal.MSALPlugin
+version: 0.1
+commands:
+  msal:
+    description: Invokes a msal command and checks if msal is working correctly
+    usage: /msal [command]
