@@ -1,4 +1,4 @@
-name: msa
+name: msal
 main: com.biel.msal.MSALPlugin
 version: 0.1
 commands:
